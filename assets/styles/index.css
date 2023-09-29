@@ -26,6 +26,7 @@
 } 
 footer{
     min-height: 3em;
+    color:white;
 }
 .fa {
     padding: 10px ;
@@ -57,4 +58,13 @@ footer{
     background: #bb0000;
     color: white;
   }
-  
+.card-body{
+    background-color:  rgb(180, 118, 238) !important;
+}
+.card-body a{
+    background-color:rgb(161, 82, 234) ;
+    
+}
+.card-body a:hover{
+    background-color:rgb(145, 49, 236) !important;
+}
