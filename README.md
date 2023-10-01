@@ -7,8 +7,10 @@ Tambien tenemos una página para el registro de usuarios y otra para que los usu
 - Fuentes empleadas:
   - Titulos: **Galpo**
     ![EstiloGalpo](./assets/Bocetos/Galpo.png)
+    
   - Subtitulos: **Mordeka**
      ![EstiloGalpo](./assets/Bocetos/Mordeka.png)
+    
 - Coles principales:
   - #**FFFFFF**
   - #**6C757D**
