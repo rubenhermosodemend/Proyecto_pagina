@@ -68,3 +68,13 @@ footer{
 .card-body a:hover{
     background-color:rgb(145, 49, 236) !important;
 }
+.form-control-inline {
+    display: inline-block;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-top: 3rem;
+
+}
+.form-control-short {
+    width: 300px; 
+}
