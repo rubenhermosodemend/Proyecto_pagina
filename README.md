@@ -35,13 +35,13 @@ La seguda página se trata de uba página de compra de videojuegos principalment
 ## Tercera página
 Esta página contará con un formulario con el queel usuario podrá registrarse en nuestra página se lo desea. Tambien tiene una foto en la parte derecha relacionad con losproductos que vendemos.
 
-![Tercera página](./assets/Bocetos/Pagina%20cap%203.png)
+![Tercera página](./assets/Bocetos/pagina%20cap%203.png)
 
 ##  Cuarta página
 La última página tiene los datos para que el usuario contacte con nosotros tanto el lugar de la teinda física como nuestras redes sociales, y una mapa de donde se hubica nuestra tienda.
 Ademas contien un formulario para facilitar el contacto con nosotros atraves de correo.
 
-![Cuarta página](./assets/Bocetos/Pagina%20cap%204.png)
+![Cuarta página](./assets/Bocetos/pagina%20cap%204.png)
 
 
 
